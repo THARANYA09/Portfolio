@@ -1,0 +1,47 @@
+body{
+  background-color: rgb(174, 238, 238);
+  text-align: center;
+}
+.container {
+display: flex;
+align-items: center;
+justify-content: center
+}
+
+img {
+width: 40%;
+height:40%;
+margin-top:10%;
+
+}
+.text {
+text-color: white;
+margin-top: 10%;
+font-size: 15px;
+padding-right: 10px;
+}
+* {box-sizing:border-box}
+
+.container2 {
+width: 100%; 
+}
+
+.skills {
+text-align: right; 
+padding-top: 10px; 
+padding-bottom: 10px; 
+color: white;
+}
+.cpp {width: 90%; background-color: #04AA6D;}
+.html {width: 85%; background-color: #2196F3;} 
+.sql{width: 80%; background-color: pink;}
+.css {width: 75%; background-color: #f44336;}
+.java {width: 65%; background-color: #808080;} 
+
+.p1{
+text-align: left;
+}
+.c1{
+background-color: white;
+text-color: white;
+}
